@@ -47,7 +47,7 @@ function App() {
         <div className="card-div">
           <Card style={{ width: "20rem" }}>
             <Card.Body>
-              <Card.Title>BMW</Card.Title>
+              <Card.Title>Mouse</Card.Title>
               <Card.Subtitle className="mb-2 text-muted">
                 Gaming Mouse
               </Card.Subtitle>
@@ -62,7 +62,7 @@ function App() {
 
           <Card style={{ width: "20rem" }}>
             <Card.Body>
-              <Card.Title>Porsche</Card.Title>
+              <Card.Title>Headphone</Card.Title>
               <Card.Subtitle className="mb-2 text-muted">
                 Headphones
               </Card.Subtitle>
@@ -77,7 +77,7 @@ function App() {
 
           <Card style={{ width: "20rem" }}>
             <Card.Body>
-              <Card.Title>Ferrari</Card.Title>
+              <Card.Title>Keyboard</Card.Title>
               <Card.Subtitle className="mb-2 text-muted">
                 Mechanical Gaming Keyboard
               </Card.Subtitle>
